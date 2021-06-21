@@ -1,8 +1,7 @@
-.App {
+/* .App {
   text-align: center;
-}
-
-.App-logo {
+} */
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -32,7 +31,44 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
 }
+
+*/
+/* 
+.Base {
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  /* color: aquamarine; */
+/* } */
+
+/* .header {
+  width: 100vw;
+  text-align: center;
+  display: flex;
+  /* color: magenta; */
+/* } */
+/* 
+.header .h1 {
+  width: 100vw;
+
+  text-align: center;
+} */
+
+/* .Nav {
+  width: 100%;
+  display: flex;
+  flex-flow: row;
+
+
+}
+
+*/
+/* .Nav .h2 {
+  padding: 40px;
+} */
