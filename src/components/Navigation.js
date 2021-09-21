@@ -10,16 +10,16 @@ const Navigation = () => {
           <img className="logo" src={logo}></img>
         </NavLink>
         <NavLink className="navItems" to="/about">
-          Our Product
+          About Our Product
         </NavLink>
-        <NavLink className="navItems" to="/about">
+        {/* <NavLink className="navItems" to="/about">
           Our Story
-        </NavLink>
+        </NavLink> */}
         <NavLink className="navItems" to="/recipes">
-          Recipes
+          Recipes and Tips
         </NavLink>
         <NavLink className="navItems" to="/purchase">
-          Purchase
+          Contact / Purchase
         </NavLink>
       </div>
     </div>

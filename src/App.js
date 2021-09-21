@@ -17,10 +17,10 @@ function App() {
     <div className="Base">
       <Navigation />
       <Banner />
-      <Route exact path="/"></Route>
-      <Route path="/about" component={About}></Route>
-      <Route path="/purchase" component={Purchase}></Route>
-      <Route path="/contact" component={Contact}></Route>
+      {/* <Route exact path="/"></Route> */}
+      <Route exact path="/" component={About}></Route>
+      <Route path="/purchase" component={Contact}></Route>
+      {/* <Route path="/contact" component={Contact}></Route> */}
       <Route path="/recipes" component={Recipes}></Route>
 
       <Footer></Footer>
