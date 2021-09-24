@@ -18,6 +18,31 @@ const About = () => {
           well as retains the delicious juices that are usually diluted or lost.
           Be sure to discard any shellfish that do not open!
           <br />
+          <div className="ytVidContainer">
+            <iframe
+              width="100%"
+              height="480"
+              src="https://www.youtube.com/embed/SiI0BVtn-Io"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
+          </div>
+          <br />
+          <h2></h2>
+          <br />
+          <div className="ytVidContainer">
+            <iframe
+              width="100%"
+              height="480"
+              src="https://www.youtube.com/embed/QttxRLAU8aM"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
+          </div>
           <br />
           When cooking fresh unopened oysters on a grill or in an oven, begin by
           placing each cupped shell level on an opening in the GreatGrate. When

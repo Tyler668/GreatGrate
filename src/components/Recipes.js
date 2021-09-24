@@ -40,7 +40,8 @@ const Recipes = () => {
 
         <div classname="recipe">
           <p>
-            <h2>Stuffies (Stuffed Clams) Ingredients</h2>
+            <h2>Stuffies (Stuffed Clams)</h2>
+            <h3>Ingredients</h3>
             <ul>
               <li>
                 24 medium quahogs, prepared, shucked or unopened reserve juice
@@ -88,6 +89,50 @@ const Recipes = () => {
             littlenecks or cherrystones and serve as appetizers.
             <br />
             <br />
+            <p>
+              ______________________________________________________________________________________________
+            </p>
+            <p>
+              <h2>Grilled Oysters Swamper Feller</h2>
+              <h3>Ingredients</h3>
+              <ul>
+                <li> 24 large oysters, prepared, shucked or unopened </li>
+                <br />
+                <li>1 cup puréed spinach </li>
+                <br />
+                <li>1/2 cup Rolled Ritz Cracker Mix (page 95) </li>
+                <br />
+                <li>1/4 lb. unsalted butter </li>
+                <br />
+                <li>3 medium shallots, finely chopped </li>
+                <br />
+                <li>2 tablespoons fresh parsley, finely chopped (page 98) </li>
+                <br />
+                <li>1/2 teaspoon granulated garlic </li>
+                <br />
+                <li> 1 tablespoon Worcestershire Sauce </li>
+                <br />
+                <li>
+                  4 tablespoons Pernod (may substitute Herbsaint, Anise or
+                  Galliano Liqueur)
+                </li>
+                <br />
+                <li> 1/4 cup shredded asiago cheese</li>
+                <br />
+                <li>Salt and black pepper to taste </li>
+                <br />
+              </ul>
+              <br />
+              <h2>Preparation</h2>
+              Place shucked oysters on the Great Grate. (If unshucked, grill
+              until they open. Discard any that do not open.) Meanwhile, in a
+              bowl, mix together spinach, cracker mixture, shallots, garlic,
+              parsley, Worcestershire Sauce, salt and pepper. Set aside.
+              Sprinkle Pernod over each oyster. Spoon spinach mixture onto each
+              oyster. Top with shredded asiago. Grill until edges of oysters
+              begin to curl and the cheese melts. This recipe goes well with
+              hard-shell clams and mussels, too.
+            </p>
           </p>
         </div>
       </div>

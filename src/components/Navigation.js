@@ -9,7 +9,7 @@ const Navigation = () => {
         <NavLink className="navItems" to="/">
           <img className="logo" src={logo}></img>
         </NavLink>
-        <NavLink className="navItems" to="/about">
+        <NavLink className="navItems" to="/">
           About Our Product
         </NavLink>
         {/* <NavLink className="navItems" to="/about">
