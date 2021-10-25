@@ -9,7 +9,7 @@ import "./sass/index.scss";
 // const AppWithRouter = withRouter(App);
 
 ReactDOM.render(
-  <Router basename={"greatgrate.com"}>
+  <Router >
     <App />
   </Router>,
   document.getElementById("root")

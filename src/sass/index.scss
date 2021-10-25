@@ -28,7 +28,7 @@ code,
 del,
 dfn,
 em,
-img,
+// img,
 ins,
 kbd,
 q,
@@ -245,4 +245,23 @@ $breakpoint-tablet: 1000px;
 
 .contactBlurb {
   display: flex;
+}
+
+.Card {
+  display: flex;
+  width: 300px;
+  height: 300px;
+}
+
+.picContainer {
+  border: 1px solid grey;
+}
+.modelPic {
+  width: 30%;
+  height: 30%;
+}
+
+.subText {
+  width: 30%;
+  height: 30%;
 }

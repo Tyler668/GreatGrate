@@ -1,9 +1,11 @@
 import React from "react";
+import Models from "./Models";
 
 const Contact = () => {
   return (
     <div className="About">
       <div className="contactBlurb">
+        <Models />
         <ul>
           <h1>Contact</h1>
           <li>Inquiries Can be sent to </li>
