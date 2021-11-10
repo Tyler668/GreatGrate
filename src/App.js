@@ -20,7 +20,7 @@ function App() {
       {/* <Route exact path="/"></Route> */}
       <Route exact path="/" component={About}></Route>
       <Route path="/purchase" component={Contact}></Route>
-      {/* <Route path="/contact" component={Contact}></Route> */}
+      <Route path="/contact" component={Contact}></Route>
       <Route path="/recipes" component={Recipes}></Route>
 
       <Footer></Footer>

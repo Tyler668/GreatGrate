@@ -255,13 +255,35 @@ $breakpoint-tablet: 1000px;
 
 .picContainer {
   border: 1px solid grey;
+
 }
 .modelPic {
   width: 30%;
   height: 30%;
 }
 
-.subText {
-  width: 30%;
-  height: 30%;
+
+.cardGrid{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+
+
+  .cardContainer{
+    width: 20%;
+    height: 20%;
+  }
+
+
+
+  .subText{
+    border: 1px solid grey;
+  }
+
+}
+
+
+.About2{
+  display: flex;
+  justify-content: center;
 }
