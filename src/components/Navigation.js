@@ -19,6 +19,9 @@ const Navigation = () => {
         <NavLink className="navItems" to="/recipes">
           Recipes and Tips
         </NavLink>
+        <NavLink className="navItems" to="/models">
+          Models / Prices
+        </NavLink>
         <NavLink className="navItems" to="/purchase">
           Contact / Purchase
         </NavLink>
