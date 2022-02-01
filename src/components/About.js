@@ -11,7 +11,7 @@ const About = () => {
         <p>
           Not all of you may live in a shellfish Utopia similar to coastal Rhode
           Island as I do, so here’s a few tips that may help you better enjoy
-          these tasty morsels and save you some work. The heat on the adductor
+          these tasty morsels and save you some work! The heat on the adductor
           muscles determines if the “meats” of your clams, oysters or mussels
           are going to be attached to the upper or lower shell when the cooking
           is done. The “in shell” cooking adds flavors that steaming steals as
