@@ -13,7 +13,7 @@ iframe,
 h1,
 // h2,
 // h3,
-h4,
+// h4,
 h5,
 h6,
 blockquote,
@@ -254,14 +254,45 @@ $breakpoint-tablet: 1000px;
 }
 
 .picContainer {
-  border: 1px solid grey;
+  // border: 1px solid grey;
+
 }
 .modelPic {
-  width: 30%;
+  width: 100%;
   height: 30%;
 }
 
-.subText {
-  width: 30%;
-  height: 30%;
+
+.cardGrid{
+  display: flex;
+  flex-direction: row;
+
+  justify-content: space-evenly;
+
+
+
+
+
+  .cardContainer{
+    width: 30%;
+    height: 20%;
+  }
+
+
+
+  .subText{
+    // border: 1px solid grey;
+  }
+
+}
+
+.modeltitle{
+  display: flex;
+  width: 100%;
+justify-content: center;
+}
+
+.About2{
+  display: flex;
+  justify-content: center;
 }
