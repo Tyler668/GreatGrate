@@ -3,7 +3,7 @@ import React from "react";
 import triangle from "../assets/tri.JPG";
 import rectangle from "../assets/rect.JPG";
 import hexagon from "../assets/Hex.jpg";
-
+/*  "homepage": "http://tyler668.github.io/GreatGrate",*/
 const Models = () => {
   return (
     <div className="About">
