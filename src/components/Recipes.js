@@ -33,8 +33,8 @@ const Recipes = () => {
           you’ll have a difficult time tell the freshest from the stored if you
           follow the above suggestion. Oysters will store for weeks and clams
           (hard shell) for many days because they won’t desiccate as rapidly.
-          But remember if a clam or oyster doesn’t open after cooking *throw it
-          out!!!* Hope these ideas add to your cooking pleasure and enjoyment of
+          But remember if a clam or oyster doesn’t open after cooking throw it
+          out!!! Hope these ideas add to your cooking pleasure and enjoyment of
           your Great Grate. Slurp On and thank you.
         </p>
 
@@ -133,7 +133,34 @@ const Recipes = () => {
               begin to curl and the cheese melts. This recipe goes well with
               hard-shell clams and mussels, too.
             </p>
+            <br />
+            <br />
+            <p>
+              ______________________________________________________________________________________________
+            </p>
+            <p>
+              <h2>Pecorino Mayo Sauce</h2>
+              <h3>Ingredients</h3>
+              <ul>
+                <li> 1/2 cup pecorino - microplaned </li>
+                <br />
+                <li>1 /2 cup mayonnaise </li>
+                <br />
+                <li>1 1/2 teaspoon finely chopped garlic </li>
+                <br />
+                <li>2 tablespoon chives, sliced into thin rings </li>
+
+              </ul>
+              <br />
+              <h2>Preparation</h2>
+              Combine together and spoon onto a shucked oyster as desired, broil until golden brown.
+
+              Enhance your oyster dishes with our delightful Pecorino Mayo. This creamy sauce, featuring the unique flavors of Pecorino cheese, is specially crafted for broiling and topping oysters. Experience a delightful
+              combination of creamy texture and tangy notes that perfectly complement the fresh taste of oysters. Elevate your seafood indulgence with our Pecorino Mayo, adding a touch of culinary excellence to every bite.
+            </p>
           </p>
+          <br />
+          <br />
         </div>
       </div>
     </div>
