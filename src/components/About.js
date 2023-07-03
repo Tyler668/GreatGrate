@@ -18,6 +18,8 @@ const About = () => {
           well as retains the delicious juices that are usually diluted or lost.
           Be sure to discard any shellfish that do not open!
           <br />
+          <br />
+          <br />
           <div className="ytVidContainer">
             <iframe
               width="100%"
